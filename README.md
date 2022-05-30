@@ -2,4 +2,4 @@
 Это модифицированая версия скрипта описаного здесь https://medium.com/@vovohelo/unscrambling-lua-7bccb3d5660
 For Daniel Santos
 Thank you very much, your article saved me a lot of time
-<font size = 1>~~although the comments could have been better~~</font>
+<font size=1>~~although the comments could have been better~~</font>
